@@ -19,3 +19,4 @@ bin/rails app:template LOCATION=~/template.rb
 名称|描述|备注
 ---|---|---
 [`5YzdJh`](./5YzdJh) | Slim
+[`xHa7bE`](./xHa7bE) | postcss-scss
