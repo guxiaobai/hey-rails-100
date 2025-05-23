@@ -23,3 +23,9 @@ bin/rails app:template LOCATION=~/template.rb
 ~~[`5n0RMO`](./5n0RMO)~~ | `Annotate`|Rails 8 缺少维护
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`e0Y1xu`](./e0Y1xu) | Livereload
+
+
+
+## TODO
+
+* <https://rubygems.org/gems/bcrypt>
