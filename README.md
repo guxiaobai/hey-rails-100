@@ -30,3 +30,4 @@ bin/rails app:template LOCATION=~/template.rb
 
 * <https://rubygems.org/gems/bcrypt>
 * <https://rubygems.org/gems/warden>
+* <https://github.com/jeremyevans/tilt>
