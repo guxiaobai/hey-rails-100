@@ -29,3 +29,4 @@ bin/rails app:template LOCATION=~/template.rb
 ## TODO
 
 * <https://rubygems.org/gems/bcrypt>
+* <https://rubygems.org/gems/warden>
