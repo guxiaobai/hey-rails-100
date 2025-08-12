@@ -2,6 +2,17 @@
 
 
 
+## Initialize
+
+
+
+```bash
+$ rbenv shell 3.3.8
+$ rails new store -j rollup -c postcss -T
+```
+
+
+
 ## Rails Application Templates
 
 ```bash
