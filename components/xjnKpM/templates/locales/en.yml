@@ -1,4 +1,5 @@
 zh-CN:
+  hello: "Hello world"
   activerecord:
     models:
     attributes:
