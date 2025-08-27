@@ -14,3 +14,4 @@
 [4wI1A6](./4wI1A6) | Devise
 [uoVMZi](./uoVMZi) | Enumerize
 [xjnKpM](./xjnKpM) | rails-i18n
+[PpsT4C](./PpsT4C) | Ransack
