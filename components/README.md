@@ -9,6 +9,7 @@
 名称|描述|备注
 ---|---|---
 [YqylZd](./YqylZd) | `.ruby-version`|Ruby 版本管理
+[`ZxawGQ`](./ZxawGQ) | `dotenv` | 环境变量管理
 [THsjva](./THsjva) | welcome
 [sHI6Rc](./sHI6Rc) | Bootstrap
 [4wI1A6](./4wI1A6) | Devise
